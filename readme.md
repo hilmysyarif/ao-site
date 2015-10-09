@@ -1,11 +1,12 @@
 # Ao-Site
 
 ## 1) Installation
+#### Using Composer
 ````
 $ composer create-project alex-oliveira/ao-site
-
-// OR
-
+````
+#### Using Git
+````
 $ git clone https://github.com/alex-oliveira/ao-site.git
 $ cd ao-site
 $ composer install
