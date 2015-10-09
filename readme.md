@@ -11,4 +11,16 @@ $ cd ao-site
 $ composer install
 ````
 
+### Dependencies
+````
+$ bower install
+````
 
+````
+$ npm install --no-bin-links
+````
+
+### Building
+````
+$ gulp build
+````
