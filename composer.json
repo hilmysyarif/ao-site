@@ -59,6 +59,7 @@
       "php artisan key:generate",
       "bower install",
       "npm install --no-bin-links"
+      
     ]
   },
   "config": {
