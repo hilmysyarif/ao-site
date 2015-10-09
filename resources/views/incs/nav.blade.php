@@ -13,7 +13,7 @@
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li><a href="#">Menu 1</a></li>
-                <li><a href="#">M2nu 2</a></li>
+                <li><a href="#">Menu 2</a></li>
                 <li><a href="#">Menu 3</a></li>
             </ul>
         </div>
