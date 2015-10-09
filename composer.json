@@ -58,7 +58,7 @@
     "post-create-project-cmd": [
       "php artisan key:generate",
       "bower install",
-      "npm install --no-bin-links"
+      "sudo npm install --no-bin-links"
     ]
   },
   "config": {
