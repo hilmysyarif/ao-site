@@ -29,10 +29,11 @@ $ gulp build
 ## 4) Configurations (".env" and ".env.example")
 By default, the file ".env.example" has the configurations below, and are copied to ".env":
 ````
-APP_DOMAIN=ao-site.com
-APP_SUBDOMAINS=false
 APP_TITLE=AoSite.com
 APP_TITLE_HTML=Ao<b>Site</b>.com
+
+APP_DOMAIN=ao-site.com
+APP_SUBDOMAINS=false
 ````
 #### Warning
 - You should replace these data using your own informations
