@@ -10,6 +10,3 @@ Route::get('org/terms', ['as' => 'org.terms', 'uses' => 'OrgController@terms']);
 Route::get('org/contact', ['as' => 'org.contact', 'uses' => 'OrgController@contact']);
 
 # mains
-Route::resource('schools', 'SchoolsController', ['except' => ['edit', 'update', 'destroy']]);
-Route::resource('partners', 'PartnersController', ['except' => ['edit', 'update', 'destroy']]);
-Route::resource('benefits', 'BenefitsController', ['only' => ['index', 'show']]);
