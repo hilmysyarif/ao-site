@@ -1,12 +1,23 @@
 {
-  "name": "laravel/laravel",
-  "description": "The Laravel Framework.",
-  "keywords": [
-    "framework",
-    "laravel"
-  ],
+  "name": "alex-oliveira/ao-site",
+  "homepage": "http://github.com/alex-oliveira/ao-site",
+  "description": "Basic WebSite with 5.1",
   "license": "MIT",
   "type": "project",
+  "keywords": [
+    "alex-oliveira",
+    "ao-site",
+    "laravel",
+    "site"
+  ],
+  "authors": [
+    {
+      "name": "Alex Oliveira",
+      "email": "bsi.alexoliveira@gmail.com",
+      "homepage": "http://alexdeoliveira.com",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "php": ">=5.5.9",
     "laravel/framework": "5.1.*"
