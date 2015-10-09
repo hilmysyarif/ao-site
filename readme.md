@@ -30,6 +30,7 @@ $ gulp build
 By default, the file ".env.example" has the configurations below, and are copied to ".env":
 ````
 APP_DOMAIN=ao-site.com
+APP_SUBDOMAINS=false
 APP_TITLE=AoSite.com
 APP_TITLE_HTML=Ao<b>Site</b>.com
 ````
@@ -37,4 +38,4 @@ APP_TITLE_HTML=Ao<b>Site</b>.com
 - You should replace these data using your own informations
 - Fill the variables using production informations in ".env.example"
 - Use informations specifically of your development enviroment in the ".env"
-- If APP_DOMAIN not is equal your "vhost", you will have problems of session
+- If APP_DOMAIN not is equal your "vhost", you will have problems of session, if APP_SUBDOMAINS is true
