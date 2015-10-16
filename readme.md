@@ -3,7 +3,7 @@
 ## 1) Installation
 #### Using Composer
 ````
-$ composer create-project alex-oliveira/ao-site
+$ composer create-project alex-oliveira/ao-site:dev-master
 ````
 #### Using Git
 ````
